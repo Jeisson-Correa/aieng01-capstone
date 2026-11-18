@@ -1,0 +1,26 @@
+{
+  "marca": "Aurelia",
+  "actualizado": "2026-11-18",
+  "skus": [
+    {"sku": "CH-001", "nombre": "Chaqueta impermeable Monserrate", "categoria": "chaqueta", "precio": 289000, "stock": {"azul": {"S": 2, "M": 3, "L": 0, "XL": 1}, "negro": {"S": 0, "M": 4, "L": 2, "XL": 1}}},
+    {"sku": "CH-002", "nombre": "Chaqueta de cuero Zipaquira", "categoria": "chaqueta", "precio": 459000, "stock": {"negro": {"S": 1, "M": 2, "L": 2, "XL": 0}, "cafe": {"S": 0, "M": 1, "L": 3, "XL": 1}}},
+    {"sku": "CH-003", "nombre": "Chaqueta acolchada Paramo", "categoria": "chaqueta", "precio": 329000, "stock": {"negro": {"S": 3, "M": 2, "L": 0, "XL": 0}, "verde": {"S": 1, "M": 0, "L": 2, "XL": 2}}},
+    {"sku": "CH-004", "nombre": "Blazer entallado Quinta", "categoria": "chaqueta", "precio": 249000, "stock": {"beige": {"S": 2, "M": 2, "L": 1, "XL": 0}, "negro": {"S": 1, "M": 3, "L": 2, "XL": 1}}},
+    {"sku": "CH-005", "nombre": "Chaqueta bomber Chapinero", "categoria": "chaqueta", "precio": 199000, "stock": {"verde": {"S": 4, "M": 5, "L": 3, "XL": 2}, "negro": {"S": 2, "M": 2, "L": 2, "XL": 0}}},
+    {"sku": "CH-006", "nombre": "Cortaviento Usaquen", "categoria": "chaqueta", "precio": 179000, "stock": {"azul": {"S": 3, "M": 4, "L": 4, "XL": 1}, "gris": {"S": 1, "M": 2, "L": 0, "XL": 0}}},
+    {"sku": "CH-007", "nombre": "Chaqueta de jean Candelaria", "categoria": "chaqueta", "precio": 189000, "stock": {"azul": {"S": 2, "M": 3, "L": 3, "XL": 2}, "negro": {"S": 0, "M": 1, "L": 1, "XL": 0}}},
+    {"sku": "CH-008", "nombre": "Parka termica Nevado", "categoria": "chaqueta", "precio": 399000, "stock": {"negro": {"S": 1, "M": 1, "L": 2, "XL": 3}, "vino": {"S": 0, "M": 2, "L": 1, "XL": 0}}},
+    {"sku": "CH-009", "nombre": "Chaqueta deportiva Tequendama", "categoria": "chaqueta", "precio": 169000, "stock": {"gris": {"S": 5, "M": 4, "L": 3, "XL": 2}, "azul": {"S": 2, "M": 2, "L": 1, "XL": 1}}},
+    {"sku": "CH-010", "nombre": "Gaban largo Teusaquillo", "categoria": "chaqueta", "precio": 429000, "stock": {"camel": {"S": 1, "M": 2, "L": 1, "XL": 0}, "negro": {"S": 0, "M": 1, "L": 2, "XL": 1}}},
+    {"sku": "BO-001", "nombre": "Bolso tote Salento", "categoria": "bolso", "precio": 215000, "stock": {"camel": {"unica": 5}, "negro": {"unica": 2}}},
+    {"sku": "BO-002", "nombre": "Bandolera Cartagena", "categoria": "bolso", "precio": 165000, "stock": {"vino": {"unica": 0}, "negro": {"unica": 4}}},
+    {"sku": "BO-003", "nombre": "Mochila urbana Andina", "categoria": "bolso", "precio": 239000, "stock": {"negro": {"unica": 6}, "verde": {"unica": 3}}},
+    {"sku": "BO-004", "nombre": "Bolso bandolera Guatape", "categoria": "bolso", "precio": 149000, "stock": {"camel": {"unica": 2}, "azul": {"unica": 0}}},
+    {"sku": "BO-005", "nombre": "Maletin ejecutivo Bacata", "categoria": "bolso", "precio": 349000, "stock": {"negro": {"unica": 3}, "cafe": {"unica": 1}}},
+    {"sku": "BO-006", "nombre": "Bolso shopper Tayrona", "categoria": "bolso", "precio": 199000, "stock": {"beige": {"unica": 4}, "negro": {"unica": 4}}},
+    {"sku": "BO-007", "nombre": "Rinonera Caribe", "categoria": "bolso", "precio": 89000, "stock": {"negro": {"unica": 8}, "verde": {"unica": 5}}},
+    {"sku": "BO-008", "nombre": "Bolso de mano Villa de Leyva", "categoria": "bolso", "precio": 279000, "stock": {"vino": {"unica": 1}, "camel": {"unica": 2}}},
+    {"sku": "BO-009", "nombre": "Morral viajero Cocora", "categoria": "bolso", "precio": 319000, "stock": {"negro": {"unica": 2}, "gris": {"unica": 3}}},
+    {"sku": "BO-010", "nombre": "Clutch Barichara", "categoria": "bolso", "precio": 129000, "stock": {"negro": {"unica": 0}, "dorado": {"unica": 2}}}
+  ]
+}
